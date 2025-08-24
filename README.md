@@ -74,7 +74,7 @@ Feel free to get in touch with me:
 
 
 
-Email: sankrdeep7510@gmail.com
+Email: manav867saini@gmail.com
 
 GitHub: https://github.com/your-username
 
