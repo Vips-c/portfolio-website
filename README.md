@@ -52,7 +52,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/developer-portfolio.git
+git clone https://github.com/Vips-c/portfolio-website.git
 Navigate into the project folder:
 
 bash
